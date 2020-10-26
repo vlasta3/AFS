@@ -27,7 +27,7 @@ f = open('hack_list.txt','r')
 exefuxion = f.read()
 scriper = exefuxion.split('\n')
 for i in tqdm(range(100), mininterval = 3,
-         desc ="starting"):
+         desc ="\033[1;32mstarting"):
     	 sleep(.1)
 for i in scriper:
 	url = target+'/'+i
