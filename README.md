@@ -14,4 +14,6 @@ USAGE :
       $ python3 admin-finder-script.py
       $ root@target:~# < http/https://target.com  > 
 
-NOTE : ctrl + z <STOPPED / SUSPENDED>
+NOTE : 
+
+       ctrl + z <STOPPED / SUSPENDED>
