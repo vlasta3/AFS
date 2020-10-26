@@ -17,3 +17,5 @@ USAGE :
 NOTE : 
 
        ctrl + z <STOPPED / SUSPENDED>
+       
+       hack_list.txt 5427 wordlists
