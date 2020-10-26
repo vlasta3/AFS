@@ -1,5 +1,7 @@
-admin
 adm
+admin
+admin1
+admin2
 admincp
 admcp
 cp
@@ -8,11 +10,11 @@ moderatorcp
 adminare
 admins
 cpanel
-controlpanel
 admin1.php
 admin1.html
 admin2.php
 admin2.html
+controlpanel
 yonetim.php
 yonetim.html
 yonetici.php
@@ -3990,12 +3992,4 @@ administrator/Logon.asp
 /yonetici.php
 /yonetim.asp
 /yonetim.html
-/yonetim.php
-/youxi
-/z_shop_newshop.asp
-/zip
-/zips
-/zkcf/login.asp
-/zkcf45/login.asp
-/zt/ztpdata.mdb
-/ztqdata.mdb
+
