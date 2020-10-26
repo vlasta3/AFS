@@ -3992,4 +3992,3 @@ administrator/Logon.asp
 /yonetici.php
 /yonetim.asp
 /yonetim.html
-
