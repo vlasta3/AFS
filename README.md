@@ -4,8 +4,7 @@ INSTALLATION :
  
       $ apt update
       $ apt upgrade
-      $ pip install tqdm
-      $ python3 -m pip install --upgrade 
+      $ pip install tqdm 
       $ git clone https://github.com/vlasta3/AFS
       $ cd AFS
       $ chmod +x admin-finder-script.py hacker_list.txt
